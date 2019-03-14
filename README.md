@@ -1,29 +1,14 @@
 # studentvuex
 
-## Project setup
+## Project Users manager with vuex
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Creat User - Delete User - Read Data.
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### pictures of the Project
 
-### Run your tests
-```
-npm run test
-```
+![Screen Shot 2019-03-14 at 09 20 15](https://user-images.githubusercontent.com/18648094/54341936-16204200-4633-11e9-9368-f7910dbc53c5.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Screen Shot 2019-03-14 at 09 20 07](https://user-images.githubusercontent.com/18648094/54341987-38b25b00-4633-11e9-99ac-869e10bc765c.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Screen Shot 2019-03-14 at 09 19 56](https://user-images.githubusercontent.com/18648094/54341997-41a32c80-4633-11e9-85ea-e37606626594.png)
